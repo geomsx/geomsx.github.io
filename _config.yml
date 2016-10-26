@@ -96,9 +96,9 @@ exclude_generator:
 #  branch: master
 
 deploy:
-  type: 
-  repo: 
-  branch: 
+  type: github
+  repository: git@github.com:geomsx/geomsx.github.io.git
+  branch: master 
 
 sitemap:
     path: sitemap.xml
